@@ -31,3 +31,15 @@ function sayHello(name) {
     return msg;
 }
 console.log(sayHello("class"))
+
+function sayHello(name) {
+    let msg = 'Hello,' + name + ' . How are you?';
+    return msg;
+}
+console.log(sayHello('cohorts'))
+
+function sayHello(name) {
+    let msg = 'Hello,' + name + ' . How are you?';
+    return msg;
+}
+console.log(sayHello('tired people'))
